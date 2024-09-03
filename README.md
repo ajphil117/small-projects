@@ -25,5 +25,3 @@ Download the report [here](/Information%20Security%20Risk%20Report).
 
 ## Python News Aggregator
 Individually I created a news aggregator application in Python that, using pattern matching,  would allow users to aggregate RSS news feeds to the GUI. This was my very first Python project.
-
-Download source code [here](/Python%20News%20Aggregator).
